@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nddungcoder
+- 👋 Hi, I’m @dungx_dev
 - 👀 I’m interested in technology( embedded, machine learning, AI ) 
 - 🌱 I’m currently learning UET university
 - 📫 How to reach me ...
